@@ -11,7 +11,7 @@
   - end date
 
 ## Projects
-  - name
+  - title
   - tools
   - description
   - live link
@@ -29,12 +29,9 @@
   - mobile number
   - address
 
-## social media handles
-  - coding ninjas
-  - instagram 
-  - linkedin
-  - twitter
-  - github
+## social media handles [ coding ninjas, instagram , linkedin, twitter, github ]
+  - icon (svg code)
+  - url
 
 ## resume
   - cloudinary url
