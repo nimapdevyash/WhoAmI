@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+import mongoose from "mongoose";
 
 const MAX_RETRIES = process.env.MAX_RETRIES ||  5;
 let retryCount = 0;
