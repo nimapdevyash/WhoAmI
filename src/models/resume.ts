@@ -12,4 +12,4 @@ const resumeSchema = new mongoose.Schema({
 
 const Resume = mongoose.model("Resume" , resumeSchema);
 
-exports = Resume ;
+export default Resume ;

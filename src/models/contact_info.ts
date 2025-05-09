@@ -23,4 +23,6 @@ const contactSchema = new mongoose.Schema(
   }
 );
 
-module.exports = mongoose.model("Contacts", contactSchema);
+const Contacts = mongoose.model("Contacts", contactSchema);
+
+export default Contacts ;
