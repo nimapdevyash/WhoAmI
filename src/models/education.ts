@@ -2,7 +2,7 @@
 import mongoose from "mongoose";
 
 const educationSchema = new mongoose.Schema({
-  name: {
+  degree_name: {
     type: String,
     require: true,
   },
